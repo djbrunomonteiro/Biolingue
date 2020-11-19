@@ -1,1 +1,5 @@
 "# Biolingue" 
+"#Game Educacional 2d Bilingue Libras/Portugues com a tematica de epidemiologia"
+"#links sobre https://maratonaunicefsamsung.org.br/docs/Book_Maratona_UNICEF_Samsung.pdf"
+"#Download https://play.google.com/store/apps/details?id=com.Biolingue5.BioLingue&hl=en_US"
+"#Desenvolvido com UNITY 3D e C#"
